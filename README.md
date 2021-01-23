@@ -5,6 +5,7 @@ It was developed for the MSP430FR4133 but it can be easily adapted to any MCU. D
 ### Developed in:
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.jpeg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/code_composer.jpg">
 </p>
 
